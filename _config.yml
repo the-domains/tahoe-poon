@@ -1,0 +1,28 @@
+name: Tahoe Poon
+favicon: null
+layout_spectrum: 0.0370702613145113
+typography_spectrum: 0.530616324627772
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8309831412043422
+  lightness: 0.6161327110603452
+  saturation: 0.5812092204578221
+  rhythmicContrast: 0.5723266939166933
+purpose: []
