@@ -1,6 +1,6 @@
 name: Tahoe Poon
 favicon: null
-layout_spectrum: 0.0370702613145113
+layout_spectrum: 0
 typography_spectrum: 0.530616324627772
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#c9d1d4'
+    - '#150d0a'
+    - '#52544f'
+    - '#886b66'
+    - '#3a85c0'
   brandStrength: 0.8309831412043422
   lightness: 0.6161327110603452
   saturation: 0.5812092204578221
